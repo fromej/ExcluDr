@@ -1,14 +1,14 @@
 # Excludr
 Systematic Review Exclusion Tool
 
-Excludr is an AI-powered tool designed to help researchers and scientists streamline the systematic review process by automatically excluding irrelevant papers based on predefined exclusion criteria.
+Excludr is an AI-powered tool designed to help researchers and scientists streamline the systematic review process by suggesting exclusions of irrelevant papers based on predefined exclusion criteria.
 
 ## Features
 
-- Suggested exclusions: Excludr uses machine learning algorithms to identify and exclude irrelevant papers from your search results.
+- Suggested exclusions: Excludr uses Large languange models to identify and exclude irrelevant papers from your search results.
 - Customizable exclusion criteria: Define your own exclusion criteria using a simple and intuitive interface.
 - Support for multiple languages: Excludr supports multiple languages, including English, Spanish, French, and more.
-- Integration with local LLM models: Excludr uses locally running LLM models to provide accurate and efficient exclusion results.
+- Integration with local LLM models: Excludr supports locally running LLM models to provide accurate and efficient exclusion results.
 
 ## How it works
 
@@ -29,8 +29,8 @@ Local LLM model: Excludr requires a locally running LLM model to function. You c
 - Install dependencies: pip install -r requirements.txt
 - Download and install the LLM model: follow the instructions in the models directory
 
-## Usage
-# TODO: Update
+### Usage
+#TODO: Update
 
 ## Contributing
 
